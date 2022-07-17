@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mikndesu-website/static/css/main.073c9b0a.css",
+    "main.js": "/mikndesu-website/static/js/main.542c1b07.js",
+    "static/js/787.63e09b64.chunk.js": "/mikndesu-website/static/js/787.63e09b64.chunk.js",
+    "static/media/logo.svg": "/mikndesu-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mikndesu-website/index.html",
+    "main.073c9b0a.css.map": "/mikndesu-website/static/css/main.073c9b0a.css.map",
+    "main.542c1b07.js.map": "/mikndesu-website/static/js/main.542c1b07.js.map",
+    "787.63e09b64.chunk.js.map": "/mikndesu-website/static/js/787.63e09b64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.542c1b07.js"
+  ]
+}
